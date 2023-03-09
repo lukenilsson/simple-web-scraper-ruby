@@ -3,7 +3,7 @@ require "open-uri"
 require "csv"
 
 # Define the URL to scrape
-url = "https://www.chewy.com/brands/homeopet-6907?nav-submit-button=&ref-query=homeopet&ref=searchRedirect"
+url = "https://apod.nasa.gov/apod/astropix.html"
 
 # Define the user-agent header
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
